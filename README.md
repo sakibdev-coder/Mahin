@@ -22,6 +22,7 @@ npm start
 
 - Replace the portrait at `public/images/mahin-portrait.jpg`.
 - Update social profile URLs and portfolio entries in `components/Portfolio.js`.
+- The supplied photography gallery is stored in `public/images/photography/` and appears under the Photography filter.
 - Add real project images by placing them in `public/images` and changing each project `image` value to a local path such as `/images/project-one.jpg`.
 - The contact section includes direct email and phone links: `naturewithmahin12@gmail.com` and `01961102047`. Email uses `mailto:` and phone uses `tel:`; neither requires a backend.
 
